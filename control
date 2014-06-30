@@ -1,7 +1,7 @@
 Package: sh.tat.alwayshdr
 Name: AlwaysHDR
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Makes the Camera application always enable HDR on load.
 Maintainer: Tatsh
